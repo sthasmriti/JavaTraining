@@ -1,0 +1,5 @@
+uitest\TakeScreenShot.class
+org\example\uitests\TestngPractice.class
+uitest\SeleniumTest.class
+uitest\TestSelect.class
+org\example\runner\CucumberRunnerTests.class
